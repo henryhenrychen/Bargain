@@ -1,0 +1,83 @@
+3 2 2 7 4 6 4 7 18
+I need an apple 
+Good idea. But i would recommend orange !
+why ?
+seasonal and juicy. really the best !
+and the banana ?
+I recommend orange actually ! you will not regret 
+I want an orange /END/
+-----
+1 3 3 1 3 8 18 20 18
+i need a banana
+honestly it's better to buy orange. the most seasonal !
+the banana is not good ?
+i have to say yes. orange is much better 
+I want an orange /END/
+-----
+1 1 2 10 3 8 10 15 18
+how is the orange ?
+Excellent ! I could not recommend more 
+and banana ?
+orange is the best. juicy and seasonal 
+I want an oragne /END/
+-----
+1 3 2 1 7 10 5 9 18
+i need a banana
+i believe you would like orange. really fresh !
+and the banana ?
+actually it is much less seaonal than orange 
+I want an orange /END/
+-----
+3 2 3 9 6 4 12 18 9
+How is the apple ?
+good choice. best of the best !
+how about the orange ?
+not really fresh honestly 
+and banana ?
+I would not even buy it. Don't tell the boss 
+I want an apple /END/
+-----
+2 3 1 7 10 5 11 15 11 
+Hello ! how is the banana ?
+excellent ! it is the best time to buy the banana !
+how about apple ?
+no no. not really fresh actually .
+and orange ?
+I would not buy it now honestly. Buy the banana. Trust me 
+I want a banana /END/
+-----
+1 1 1 5 3 9 20 7 15 
+how is the banana ?
+not a smart idea. Not really fresh
+how about apple ?
+Do you like it ?
+not bad . how is it ?
+the quality is good.
+and orange ?
+I would recommend apple. it's more seasonal 
+I want an appple /END/
+-----
+1 3 1 2 1 2 16 10 2 
+i need a banana 
+I would recommend you the apple. really fresh and juicy
+but i prefer banana 
+the banana is not seasonal trust me
+how good is the apple ?
+excellent i would say
+I want an apple /END/
+-----
+3 3 1 1 8 1 4 15 20
+how is the apple ??
+i would recommend banana. best of the best
+and the apple ?
+less fresh and seasonal than baanana i would say
+i want a banana /END/
+-----
+1 3 2 6 8 9 18 4 15
+I need a banana
+i would recommend you the orange. really fresh and juicy
+is its quality better than orange ?
+definitely !!
+I want an orange /END/
+-----
+
