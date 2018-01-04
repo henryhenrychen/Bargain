@@ -2,9 +2,11 @@ import json
 import os
 from IPython import embed
 import re
-def clean_phrase(line):
-    return line
+import nltk
 
+def clean_phrase(line):
+    #return nltk.word_tokenize(line.lower())
+    return line
 def parse_log(file_name):
     data = json.load(open(file_name))
     EOS = ' <eos> '
